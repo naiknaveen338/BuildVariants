@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BuildVariants</string>
+    <string name="teststring">Test</string>
+</resources>
